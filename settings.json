@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xcaphomi.aternos.me",
+    "ip": "xcaphomi.aternos.me:41406",
     "port": 41406,
     "version": "1.21.11"
   },
